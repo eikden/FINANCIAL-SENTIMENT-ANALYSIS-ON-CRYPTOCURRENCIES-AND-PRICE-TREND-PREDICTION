@@ -1,0 +1,13 @@
+{
+  "IsAutoUpdateEnabled": true,
+  "IsDarkModeEnabled": true,
+  "IsTokenPersisted": true,
+  "DateFormat": "dd-MMM-yy hh:mm tt",
+  "ParallelLimit": 1,
+  "ShouldReuseMedia": false,
+  "LastToken": "NjI3OTE0OTQ3NDMwNTgwMjM0.GZw9Pd.bBa8VW4hiwBIGi6lCebnyomZZRBoltu3En09-g",
+  "LastExportFormat": 3,
+  "LastPartitionLimitValue": null,
+  "LastMessageFilterValue": null,
+  "LastShouldDownloadMedia": false
+}
